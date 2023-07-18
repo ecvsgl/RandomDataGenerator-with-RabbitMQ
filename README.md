@@ -1,4 +1,4 @@
-##Random Data Generator with RabbitMQ
+## Random Data Generator with RabbitMQ
 
 This is a Java code trial with three different executable java classes. 
 
